@@ -1,0 +1,12 @@
+body {
+   background-color: cadetblue;
+   color: #fff;
+}
+.box {
+   width: 100px;
+   height: 100px;
+   background-color: rgb(32, 54, 54);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
